@@ -1,0 +1,21 @@
+table {
+  background-color: rgb(40,44,52);
+  width: 100%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  font-size: small;
+  height:30px;
+  width:100px;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+th {
+  color:black;
+  background-color: #eee;
+}
+
+  
